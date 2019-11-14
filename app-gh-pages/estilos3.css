@@ -1,0 +1,40 @@
+#formulario {
+    
+    
+    width: 250px;
+    margin: auto;
+    background-color: #81E319;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+#boton3 {
+    
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    background-color: darkcyan
+    
+    
+    
+}
+
+#menu1234 {
+    
+    margin-top: 400px;
+    margin-bottom:700px;
+    
+    
+    
+    
+    
+    
+    
+    
+    }
